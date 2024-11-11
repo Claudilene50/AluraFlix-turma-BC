@@ -19,5 +19,11 @@ img{
     display:flex;
     overflow-x: auto;
     gap: 15px;
+    opacity: 0.5;
 }
+.categoria-videos img:hover {
+    opacity: 1.0;
+    border: 1px solid green;
+}
+
     
