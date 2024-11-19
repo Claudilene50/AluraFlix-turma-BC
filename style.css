@@ -2,7 +2,7 @@ body{
     background-color: black;
         color: red;
 }
-section{
+.chamada{
     background-color: rgb red;
     padding-top: 80px;
     padding-bottom: 80px;
@@ -24,6 +24,10 @@ img{
 .categoria-videos img:hover {
     opacity: 1.0;
     border: 1px solid green;
+}
+.categoria{
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
     
