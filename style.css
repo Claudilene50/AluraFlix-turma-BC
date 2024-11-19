@@ -2,6 +2,7 @@ body{
     background-color: black;
         color: red;
         font-family: "Host Grotesk", sans-serif;
+        font-weight: bold;
 }
 .chamada{
     background-color: rgb red;
@@ -30,5 +31,7 @@ img{
     padding-left: 20px;
     padding-right: 20px;
 }
-
+h1{
+    font-size: 40px;
+}
     
